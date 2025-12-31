@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I’m a full-stack developer who loves turning ideas into scalable, real-world web applications. I specialize in building clean, dynamic, and user-friendly systems with modern technologies.
-
+I’m a passionate developer who enjoys building web applications that actually work in the real world. I love learning new technologies, improving systems, and creating solutions that make life easier for users and businesses.
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Umer Farooq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umerfarooq_55@yahoo.com) 
