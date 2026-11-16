@@ -47,7 +47,7 @@ I'm a senior full-stack developer with 9+ years of building and running producti
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,bootstrap,vite" alt="Frontend" />
 
 **DevOps & tools**<br/>
-<img src="https://skillicons.dev/icons?i=linux,apache,digitalocean,azure,vercel,netlify,git,github,postman,figma" alt="DevOps and tools" />
+<img src="https://skillicons.dev/icons?i=linux,azure,vercel,netlify,git,github,postman,figma" alt="DevOps and tools" />
 
 ### What I can help with
 
