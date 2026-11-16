@@ -30,8 +30,11 @@ I'm a senior full-stack developer with 9+ years of building and running producti
 |---|---|---|
 | Enterprise telecom B2B platform | Business platform for enterprise telecom systems | Laravel · Angular · PostgreSQL |
 | Telecom admin systems | Internal admin and back-office panels | Laravel 12 · Filament |
+| [NitroTickets](https://nitrotickets.com) | Led the CodeIgniter 3 → Laravel rebuild of this combat-sports ticketing marketplace | Laravel · Twilio · Elavon |
+| [Hibabox](https://hibabox.com) | Contactless donation kiosks and online dashboard for UK charities: card donations, Gift Aid, device management | Web platform |
+| [Oolus Foundation](https://oolus.org) | Charity website with programs, donations, volunteer sign-up and accounts | Web |
+| [Momentum Engineering](https://momentumengg.com) | Heavy-equipment dealer catalog with spec and quote requests, spare-parts orders and WhatsApp leads | Web |
 | Hospital & clinic ERP | ERP for a hospital and clinic group | React · Laravel |
-| Ticketing marketplace rebuild | Led the CodeIgniter 3 → Laravel rebuild of a combat-sports ticketing marketplace | Laravel · Twilio · Elavon |
 | GPS attendance system | Attendance and staff management for a security company | Laravel |
 | Pharma sales analytics | Parses distributor PDF reports into sales analytics | PHP · Laravel |
 | [cursive-font-generator.com](https://cursive-font-generator.com) | Cursive and fancy text generator | Web |
