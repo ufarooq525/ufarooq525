@@ -1,14 +1,61 @@
-# 💫 About Me:
-I’m a passionate developer who enjoys building web applications that actually work in the real world. I love learning new technologies, improving systems, and creating solutions that make life easier for users and businesses.
+<h1 align="center">Hi, I'm Umer Farooq 👋</h1>
+<h3 align="center">Senior Full-Stack Developer · Laravel · Node.js · React</h3>
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Umer Farooq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umerfarooq_55@yahoo.com) 
+<p align="center">
+  <a href="https://umerfarooqtech.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=640&lines=SaaS%2C+ERP+%26+API+integrations;Legacy+app+modernization;CodeIgniter+%E2%86%92+Laravel+migrations;9%2B+years+shipping+production+software" alt="What I do" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
+<p align="center">
+  <a href="https://umerfarooqtech.com"><img src="https://img.shields.io/badge/Website-umerfarooqtech.com-3FB950?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Open_to-Freelance_projects-0A66C2?style=for-the-badge" alt="Open to freelance projects" />
+  <img src="https://img.shields.io/badge/Timezone-PKT_(UTC%2B5)-30363D?style=for-the-badge" alt="Timezone" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ufarooq525&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About me
+
+I'm a senior full-stack developer with 9+ years of building and running production systems. Most of my work sits on the backend: Laravel and Node.js APIs, admin panels, payment and messaging integrations, and moving old codebases onto modern stacks without breaking what already works.
+
+- 🏢 **Day job:** enterprise telecom systems work (Laravel 12, Filament, Angular, PostgreSQL)
+- 🔁 **Specialty:** CodeIgniter → Laravel migrations and legacy app modernization
+- 🔌 **Integrations:** Twilio, payment gateways (Elavon), REST and third-party APIs
+- 🚀 **On the side:** freelance client work and my own web products
+
+### What I've built
+
+| Project | What it is | Stack |
+|---|---|---|
+| Enterprise telecom B2B platform | Business platform for enterprise telecom systems | Laravel · Angular · PostgreSQL |
+| Telecom admin systems | Internal admin and back-office panels | Laravel 12 · Filament |
+| Hospital & clinic ERP | ERP for a hospital and clinic group | React · Laravel |
+| Ticketing marketplace rebuild | Led the CodeIgniter 3 → Laravel rebuild of a combat-sports ticketing marketplace | Laravel · Twilio · Elavon |
+| GPS attendance system | Attendance and staff management for a security company | Laravel |
+| Pharma sales analytics | Parses distributor PDF reports into sales analytics | PHP · Laravel |
+| [cursive-font-generator.com](https://cursive-font-generator.com) | Cursive and fancy text generator | Web |
+| [toolworks.app](https://toolworks.app) | Collection of free online tools | Web |
+| [SolarDesk demo](https://github.com/ufarooq525/solardesk-demo) | Solar quote calculator, WhatsApp handoff and after-sales dashboard | TypeScript |
+
+### Tech stack
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres,mongodb,supabase,firebase" alt="Backend" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,bootstrap,vite" alt="Frontend" />
+
+**DevOps & tools**<br/>
+<img src="https://skillicons.dev/icons?i=linux,apache,digitalocean,azure,vercel,netlify,git,github,postman,figma" alt="DevOps and tools" />
+
+### What I can help with
+
+- Building SaaS products, ERPs and admin panels end to end
+- Upgrading legacy PHP / CodeIgniter apps to modern Laravel
+- Payment, SMS and third-party API integrations
+- Fixing slow, fragile or hard-to-maintain codebases
+
+### Let's talk
+
+Have a project, or an old app that needs a rebuild? Reach me through **[umerfarooqtech.com](https://umerfarooqtech.com)**.
